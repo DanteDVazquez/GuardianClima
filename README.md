@@ -2,7 +2,7 @@
 
 ##  Autoría
 
-Desarrollado por:
+Desarrollado por
 
 DANTE VAZQUEZ (GitHub: https://github.com/DanteDVazquez)
 
